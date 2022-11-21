@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.checkbox-list-container {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.configuration-container {
+  width: 80%;
+}
+.configuration-main-container {
+  background-color: #475569;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 10px;
+}
+.configuration-heading {
+  font-size: 20px;
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  padding: 0px;
+  margin: 0px;
+}
+.configuration-item {
+  font-family: 'Roboto';
+  color: #f1f5f9;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  padding-bottom: 10px;
+}
